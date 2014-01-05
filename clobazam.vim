@@ -48,7 +48,7 @@ hi Delimiter guifg=#cf8497 guibg=NONE guisp=NONE gui=NONE ctermfg=175 ctermbg=NO
 hi Statement guifg=#8fbc8f guibg=NONE guisp=NONE gui=bold ctermfg=108 ctermbg=NONE cterm=bold
 "hi SpellRare -- no settings --
 hi EnumerationValue guifg=#c7a9d6 guibg=NONE guisp=NONE gui=NONE ctermfg=182 ctermbg=NONE cterm=NONE
-hi Comment guifg=#a8a697 guibg=NONE guisp=NONE gui=NONE ctermfg=144 ctermbg=NONE cterm=NONE
+hi Comment guifg=#9e9c90 guibg=NONE guisp=NONE gui=NONE ctermfg=247 ctermbg=NONE cterm=NONE
 hi Character guifg=#ffdead guibg=NONE guisp=NONE gui=NONE ctermfg=223 ctermbg=NONE cterm=NONE
 "hi TabLineSel -- no settings --
 hi Number guifg=#ceadff guibg=NONE guisp=NONE gui=NONE ctermfg=183 ctermbg=NONE cterm=NONE
